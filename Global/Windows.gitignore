@@ -5,7 +5,7 @@ ehthumbs.db
 ehthumbs_vista.db
 
 # Dump file
-*.stackdump
+*.dmp
 
 # Folder config file
 [Dd]esktop.ini
@@ -19,6 +19,7 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
+*.msu
 
 # Windows shortcuts
 *.lnk
